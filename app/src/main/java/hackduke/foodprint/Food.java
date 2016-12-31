@@ -1,7 +1,7 @@
 package hackduke.foodprint;
 
 /**
- * Created by pciporin on 11/20/16.
+ * Created by malcolmmac on 11/20/16.
  */
 
 
